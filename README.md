@@ -98,8 +98,8 @@ tb5_randomizetitle();
 <br><font size="5"><font color="white" face="courier new">Mau ga jadi pacarku?!?</font>
 <br><a href="https://api.whatsapp.com/send?phone=6287750057519&text=Ya%20aku%20Mau%20Terima"><input type="button" value="Yes I do" onclick="alert('Thanks yah udah mau terima aku apa ada nya');" style="font size="5"></a><><><><a href="https://api.whatsapp.com/send?phone=6287750057519&text=maaf%20aku%20nggabisa%20Terima"><input type="button" value=" Im sorry" onclick="alert('Baik lah kalau itu mau mu ^_^');" style="font size="5"></a>
 <br><br><br><hr color="red"><!-- Created By Ejaa-->
-<font size="4"><font color="white" face="courier new">Makasi Telah Meluangkan Waktunya</font>
-<marquee><font size="3"><font color="white" face="courier new">FARHANA ISHAQ❤️HAMZAH KHERID</marquee>
+<font size="4"><font color="white" face="courier new">Bahagia itu bila kamu dan aku menjadi kita. </font>
+<marquee><font size="3"><font color="white" face="courier new">JANGAN LUPA TERSENYUM HARI INI :) </marquee>
 <br><br><font size="4.5"><font color="white" face="courier new">My Boo✨</font>
 <br><font size="3.5"><font color="white" face="courier new">FARHANA ISHAQ❤️</font>
 <br><br><br><a href="http://m.facebook.com/Hmzahrez.go.id"><input type="button" value="Contact me on facebook" onclick="alert('Loading, click ok');""></a>
@@ -132,7 +132,7 @@ position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
 
 var msg = " Love you Farhanaa 😍;
 
-var size = 15;
+var size = 25;
 
 
 var circleY = 0.75; var circleX = 2;
